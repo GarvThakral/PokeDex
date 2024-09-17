@@ -1,0 +1,28 @@
+.card{
+    height:250px;
+    width:200px;
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    margin:10px;
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+}
+img{
+    height:130px
+}
+.image{
+    height: 40%;
+    margin: auto;
+}
+.content{
+    height:60%;
+    background-color: bisque;
+    padding:5px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
